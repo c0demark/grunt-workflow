@@ -1,0 +1,21 @@
+{
+    "name": "pulse",
+    "description": "pulse data visualization client tool",
+    "main": "index.js",
+    "authors": [
+        "c0demark <kumarvijay336@gmail.com>"
+    ],
+    "license": "ISC",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "angular": "^1.6.4"
+    }
+}

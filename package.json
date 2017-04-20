@@ -1,0 +1,17 @@
+{
+    "name": "grunt-workflow",
+    "version": "0.1.0",
+    "description": "plugin to manage common workflows in project build lifecycle using grunt",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "c0demark <kumarvijay336@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "bower": "^1.8.0",
+        "klaw-sync": "^1.1.2",
+        "grunt": "^1.0.1",
+        "grunt-contrib-clean": "^1.1.0"
+    }
+}

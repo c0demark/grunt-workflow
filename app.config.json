@@ -1,0 +1,7 @@
+{
+    "gruntConfigFolder": "./grunt",
+    "gruntFile": "gruntfile.js",
+    "targetCompileFolder": "target/compile/*",
+    "targetBuildFolder": "target/build/*",
+    "targetReleaseFolder": "target/release/*"
+}
